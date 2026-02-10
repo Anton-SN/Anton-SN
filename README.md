@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend web engineer
 ---------------------
 
-* 🌍  I'm based in Belgrade, Serbia
+* 🌍  I'm based in Seattle, USA
 * ✉️  You can contact me at [sivagin.anton@gmail.com](mailto:sivagin.anton@gmail.com)
 * 🧠  I'm learning Cypress
 
