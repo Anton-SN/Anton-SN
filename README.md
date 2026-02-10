@@ -5,8 +5,8 @@ Frontend web engineer
 ---------------------
 
 * 🌍  I'm based in Seattle, USA
-* ✉️  You can contact me at [sivagin.anton@gmail.com](mailto:sivagin.anton@gmail.com)
-* 🧠  I'm learning Cypress
+* ✉️  Feel free to send me an email [sivagin.anton@gmail.com](mailto:sivagin.anton@gmail.com)
+* 🧠  I'm working for Amazon
 
 ### Skills
 
